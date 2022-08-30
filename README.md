@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Zahon7
-- 👀 I’m interested in making programming languages
-- 🌱 I’m currently learning C++
+Hey i am Zahon. I like making programming languages and making operating systems.
 
 <!---
 Zahon7/Zahon7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
