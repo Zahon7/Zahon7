@@ -1,4 +1,4 @@
-Hey i am Zahon. I like making programming languages and making operating systems.
+A human
 
 <!---
 Zahon7/Zahon7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
